@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597564302 source:/home/arv/.config/codeblocks/light_house/main.cpp
+	<iostream>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
